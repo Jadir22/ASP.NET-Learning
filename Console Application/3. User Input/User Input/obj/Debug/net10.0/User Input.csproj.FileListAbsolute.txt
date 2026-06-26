@@ -1,0 +1,14 @@
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\bin\Debug\net10.0\User Input.exe
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\bin\Debug\net10.0\User Input.deps.json
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\bin\Debug\net10.0\User Input.runtimeconfig.json
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\bin\Debug\net10.0\User Input.dll
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\bin\Debug\net10.0\User Input.pdb
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\obj\Debug\net10.0\User Input.GeneratedMSBuildEditorConfig.editorconfig
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\obj\Debug\net10.0\User Input.AssemblyInfoInputs.cache
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\obj\Debug\net10.0\User Input.AssemblyInfo.cs
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\obj\Debug\net10.0\User Input.csproj.CoreCompileInputs.cache
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\obj\Debug\net10.0\User Input.dll
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\obj\Debug\net10.0\refint\User Input.dll
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\obj\Debug\net10.0\User Input.pdb
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\obj\Debug\net10.0\User Input.genruntimeconfig.cache
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\User Input\User Input\obj\Debug\net10.0\ref\User Input.dll

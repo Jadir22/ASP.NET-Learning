@@ -1,0 +1,14 @@
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\bin\Debug\net10.0\11. Queue.exe
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\bin\Debug\net10.0\11. Queue.deps.json
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\bin\Debug\net10.0\11. Queue.runtimeconfig.json
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\bin\Debug\net10.0\11. Queue.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\bin\Debug\net10.0\11. Queue.pdb
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\obj\Debug\net10.0\11. Queue.GeneratedMSBuildEditorConfig.editorconfig
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\obj\Debug\net10.0\11. Queue.AssemblyInfoInputs.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\obj\Debug\net10.0\11. Queue.AssemblyInfo.cs
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\obj\Debug\net10.0\11. Queue.csproj.CoreCompileInputs.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\obj\Debug\net10.0\11. Queue.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\obj\Debug\net10.0\refint\11. Queue.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\obj\Debug\net10.0\11. Queue.pdb
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\obj\Debug\net10.0\11. Queue.genruntimeconfig.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Queue\11. Queue\obj\Debug\net10.0\ref\11. Queue.dll

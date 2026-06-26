@@ -1,0 +1,14 @@
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\bin\Debug\net10.0\10. ArrayList And List.exe
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\bin\Debug\net10.0\10. ArrayList And List.deps.json
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\bin\Debug\net10.0\10. ArrayList And List.runtimeconfig.json
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\bin\Debug\net10.0\10. ArrayList And List.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\bin\Debug\net10.0\10. ArrayList And List.pdb
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\obj\Debug\net10.0\10. ArrayList And List.GeneratedMSBuildEditorConfig.editorconfig
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\obj\Debug\net10.0\10. ArrayList And List.AssemblyInfoInputs.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\obj\Debug\net10.0\10. ArrayList And List.AssemblyInfo.cs
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\obj\Debug\net10.0\10. ArrayList And List.csproj.CoreCompileInputs.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\obj\Debug\net10.0\10. ArrayList And List.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\obj\Debug\net10.0\refint\10. ArrayList And List.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\obj\Debug\net10.0\10. ArrayList And List.pdb
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\obj\Debug\net10.0\10. ArrayList And List.genruntimeconfig.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\10. ArrayList And List\10. ArrayList And List\obj\Debug\net10.0\ref\10. ArrayList And List.dll

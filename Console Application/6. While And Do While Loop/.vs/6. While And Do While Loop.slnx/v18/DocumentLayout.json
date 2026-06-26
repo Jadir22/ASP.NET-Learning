@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Target Software Engineer (ASP.NET)\\Console Application\\6. While And Do While Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E34F137-AC40-422B-B06E-479B790E35BE}|6. While And Do While Loop\\6. While And Do While Loop.csproj|f:\\target software engineer (asp.net)\\console application\\6. while and do while loop\\6. while and do while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E34F137-AC40-422B-B06E-479B790E35BE}|6. While And Do While Loop\\6. While And Do While Loop.csproj|solutionrelative:6. while and do while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Target Software Engineer (ASP.NET)\\Console Application\\6. While And Do While Loop\\6. While And Do While Loop\\Program.cs",
+              "RelativeDocumentMoniker": "6. While And Do While Loop\\Program.cs",
+              "ToolTip": "F:\\Target Software Engineer (ASP.NET)\\Console Application\\6. While And Do While Loop\\6. While And Do While Loop\\Program.cs",
+              "RelativeToolTip": "6. While And Do While Loop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T16:08:45.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

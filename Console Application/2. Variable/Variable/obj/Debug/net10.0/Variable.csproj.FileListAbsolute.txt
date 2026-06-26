@@ -1,0 +1,14 @@
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\bin\Debug\net10.0\Variable.exe
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\bin\Debug\net10.0\Variable.deps.json
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\bin\Debug\net10.0\Variable.runtimeconfig.json
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\bin\Debug\net10.0\Variable.dll
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\bin\Debug\net10.0\Variable.pdb
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\obj\Debug\net10.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\obj\Debug\net10.0\Variable.AssemblyInfoInputs.cache
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\obj\Debug\net10.0\Variable.AssemblyInfo.cs
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\obj\Debug\net10.0\Variable.csproj.CoreCompileInputs.cache
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\obj\Debug\net10.0\Variable.dll
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\obj\Debug\net10.0\refint\Variable.dll
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\obj\Debug\net10.0\Variable.pdb
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\obj\Debug\net10.0\Variable.genruntimeconfig.cache
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Variable\Variable\obj\Debug\net10.0\ref\Variable.dll

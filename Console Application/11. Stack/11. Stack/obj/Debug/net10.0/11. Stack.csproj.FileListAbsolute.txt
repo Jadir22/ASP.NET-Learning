@@ -1,0 +1,14 @@
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\bin\Debug\net10.0\11. Stack.exe
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\bin\Debug\net10.0\11. Stack.deps.json
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\bin\Debug\net10.0\11. Stack.runtimeconfig.json
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\bin\Debug\net10.0\11. Stack.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\bin\Debug\net10.0\11. Stack.pdb
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\obj\Debug\net10.0\11. Stack.GeneratedMSBuildEditorConfig.editorconfig
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\obj\Debug\net10.0\11. Stack.AssemblyInfoInputs.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\obj\Debug\net10.0\11. Stack.AssemblyInfo.cs
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\obj\Debug\net10.0\11. Stack.csproj.CoreCompileInputs.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\obj\Debug\net10.0\11. Stack.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\obj\Debug\net10.0\refint\11. Stack.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\obj\Debug\net10.0\11. Stack.pdb
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\obj\Debug\net10.0\11. Stack.genruntimeconfig.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\11. Stack\11. Stack\obj\Debug\net10.0\ref\11. Stack.dll

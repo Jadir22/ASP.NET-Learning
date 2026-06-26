@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Target Software Engineer (ASP.NET)\\Console Application\\10. ArrayList And List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B04B78-4319-4132-9587-66F3BA33B18B}|10. ArrayList And List\\10. ArrayList And List.csproj|f:\\target software engineer (asp.net)\\console application\\10. arraylist and list\\10. arraylist and list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B04B78-4319-4132-9587-66F3BA33B18B}|10. ArrayList And List\\10. ArrayList And List.csproj|solutionrelative:10. arraylist and list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Target Software Engineer (ASP.NET)\\Console Application\\10. ArrayList And List\\10. ArrayList And List\\Program.cs",
+              "RelativeDocumentMoniker": "10. ArrayList And List\\Program.cs",
+              "ToolTip": "F:\\Target Software Engineer (ASP.NET)\\Console Application\\10. ArrayList And List\\10. ArrayList And List\\Program.cs",
+              "RelativeToolTip": "10. ArrayList And List\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T08:41:57.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

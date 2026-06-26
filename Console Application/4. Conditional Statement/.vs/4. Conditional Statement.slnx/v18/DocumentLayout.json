@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Target Software Engineer (ASP.NET)\\Console Application\\4. Conditional Statement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C01FBACB-5BBA-4B81-B51A-543F10C10C99}|4. Conditional Statement\\4. Conditional Statement.csproj|f:\\target software engineer (asp.net)\\console application\\4. conditional statement\\4. conditional statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01FBACB-5BBA-4B81-B51A-543F10C10C99}|4. Conditional Statement\\4. Conditional Statement.csproj|solutionrelative:4. conditional statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Target Software Engineer (ASP.NET)\\Console Application\\4. Conditional Statement\\4. Conditional Statement\\Program.cs",
+              "RelativeDocumentMoniker": "4. Conditional Statement\\Program.cs",
+              "ToolTip": "F:\\Target Software Engineer (ASP.NET)\\Console Application\\4. Conditional Statement\\4. Conditional Statement\\Program.cs",
+              "RelativeToolTip": "4. Conditional Statement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:44:20.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

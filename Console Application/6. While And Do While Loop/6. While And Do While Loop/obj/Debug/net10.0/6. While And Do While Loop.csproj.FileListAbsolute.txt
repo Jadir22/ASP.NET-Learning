@@ -1,0 +1,14 @@
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\bin\Debug\net10.0\6. While And Do While Loop.exe
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\bin\Debug\net10.0\6. While And Do While Loop.deps.json
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\bin\Debug\net10.0\6. While And Do While Loop.runtimeconfig.json
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\bin\Debug\net10.0\6. While And Do While Loop.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\bin\Debug\net10.0\6. While And Do While Loop.pdb
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\obj\Debug\net10.0\6. While And Do While Loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\obj\Debug\net10.0\6. While And Do While Loop.AssemblyInfoInputs.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\obj\Debug\net10.0\6. While And Do While Loop.AssemblyInfo.cs
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\obj\Debug\net10.0\6. While And Do While Loop.csproj.CoreCompileInputs.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\obj\Debug\net10.0\6. While And Do While Loop.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\obj\Debug\net10.0\refint\6. While And Do While Loop.dll
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\obj\Debug\net10.0\6. While And Do While Loop.pdb
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\obj\Debug\net10.0\6. While And Do While Loop.genruntimeconfig.cache
+F:\Target Software Engineer (ASP.NET)\Console Application\6. While And Do While Loop\6. While And Do While Loop\obj\Debug\net10.0\ref\6. While And Do While Loop.dll

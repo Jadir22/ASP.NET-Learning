@@ -1,0 +1,14 @@
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\bin\Debug\net10.0\Hello_World_in_C#.exe
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\bin\Debug\net10.0\Hello_World_in_C#.deps.json
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\bin\Debug\net10.0\Hello_World_in_C#.runtimeconfig.json
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\bin\Debug\net10.0\Hello_World_in_C#.dll
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\bin\Debug\net10.0\Hello_World_in_C#.pdb
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\obj\Debug\net10.0\Hello_World_in_C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\obj\Debug\net10.0\Hello_World_in_C#.AssemblyInfoInputs.cache
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\obj\Debug\net10.0\Hello_World_in_C#.AssemblyInfo.cs
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\obj\Debug\net10.0\Hello_World_in_C#.csproj.CoreCompileInputs.cache
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\obj\Debug\net10.0\Hello_World_in_C#.dll
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\obj\Debug\net10.0\refint\Hello_World_in_C#.dll
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\obj\Debug\net10.0\Hello_World_in_C#.pdb
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\obj\Debug\net10.0\Hello_World_in_C#.genruntimeconfig.cache
+F:\Target Software Engineer (ASP.NET)\Hello World in C#\Hello_World_in_C#\Hello_World_in_C#\obj\Debug\net10.0\ref\Hello_World_in_C#.dll
