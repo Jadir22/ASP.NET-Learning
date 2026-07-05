@@ -1,0 +1,15 @@
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\bin\Debug\net10.0\12. Dictionary.exe
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\bin\Debug\net10.0\12. Dictionary.deps.json
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\bin\Debug\net10.0\12. Dictionary.runtimeconfig.json
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\bin\Debug\net10.0\12. Dictionary.dll
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\bin\Debug\net10.0\12. Dictionary.pdb
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\12. Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\12. Dictionary.AssemblyInfoInputs.cache
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\12. Dictionary.AssemblyInfo.cs
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\12. Dictionary.csproj.CoreCompileInputs.cache
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\12. Dictionary.sourcelink.json
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\12. Dictionary.dll
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\refint\12. Dictionary.dll
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\12. Dictionary.pdb
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\12. Dictionary.genruntimeconfig.cache
+F:\ASP.NET Learning\Console Application\12. Dictionary\12. Dictionary\obj\Debug\net10.0\ref\12. Dictionary.dll
