@@ -23,6 +23,12 @@ namespace Constructor_overloading_in_c_
             Lastname = lastName;
         }
 
+        //Default Constructor
+        public Person()
+        {
+
+        }
+
         public string GetFullName()
         {
             return Firstname + " " + Middlename+ " " + Lastname;
