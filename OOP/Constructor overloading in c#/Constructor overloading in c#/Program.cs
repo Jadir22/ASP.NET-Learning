@@ -7,3 +7,5 @@ Console.WriteLine(fullName);
 Person p2 = new Person("Ziad", "Islam");
 string fullName1 = p2.GetFullName();
 Console.WriteLine(fullName1);
+
+Person p3 = new Person();
